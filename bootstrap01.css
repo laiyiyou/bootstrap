@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+#ALL{
+	height: 750px;
+}
+#header{
+height: 150px;
+background-color: red;
+
+}
+#content{
+height: 450px;
+background-color: yellow;
+}
+#contentL{
+height: 450px;
+background-color: green;	
+	
+}
+#contentR{
+	height: 450px;
+background-color: blue;
+}
+#footer{
+	height: 150px;
+	background-color: red;
+}
